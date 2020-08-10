@@ -1,0 +1,7 @@
+name: PointAPI
+main: Leader\PointAPI
+author: Leader
+version: 1.0.0
+api:
+- 3.0.0
+
